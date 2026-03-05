@@ -1,4 +1,4 @@
-# 🧠 Autism Prediction using Machine Learning
+# Autism Prediction using Machine Learning
 
 A Machine Learning project that predicts **Autism Spectrum Disorder (ASD)** using screening questionnaire scores and demographic information.  
 This project demonstrates a complete **end-to-end ML workflow** including data preprocessing, exploratory data analysis (EDA), handling imbalanced data, model training, hyperparameter tuning, evaluation, and saving the trained model.
